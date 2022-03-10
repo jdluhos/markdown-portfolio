@@ -1,0 +1,25 @@
+- **Football**
+  - Houston Texans
+  - Texas A&M University
+  - University of Utah
+  - Playing flag football
+- **Basketball**
+  - Utah Jazz
+  - Texas A&M University
+  - Playing basketball
+- **Reading**
+  - GOT (Game of Thrones)
+  - Harry Potter
+  - Historical Fiction books
+  - The Girl With the Dragon Tattoo
+- **Watching Movies**
+  - V for Vendetta
+  - Titanic
+  - Split
+  - The Dark Knight
+- **Video Games**
+  - Battlefield 2042
+  - Horizon: Forbidden West
+  - South Park Phone Destroyer
+- **Cooking**
+- **Gardening**
